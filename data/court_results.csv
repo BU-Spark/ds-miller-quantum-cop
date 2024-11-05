@@ -1,0 +1,5 @@
+fc_num,contact_date_x,contact_officer,contact_officer_name,date,time,IDNO6,NAME,OTDATE,STARTTIME,ENDTIME,time_overlap
+FC21002738,2021-07-19 08:45:00,124390,"coyne,christian",2021-07-19,08:45:00,124390.0,"coyne,christian",2021-07-19,08:30:00,09:00:00,True
+FC22002929,2022-07-06 11:20:00,112281,"mcdonough,michael",2022-07-06,11:20:00,112281.0,"mcdonough,michael",2022-07-06,08:30:00,11:45:00,True
+FC22004078,2022-09-22 10:00:00,117001,"soto,raymond",2022-09-22,10:00:00,117001.0,"soto,raymond",2022-09-22,08:45:00,12:30:00,True
+FC22004985,2022-11-14 10:00:00,123379,"murphy,ciaran",2022-11-14,10:00:00,123379.0,"murphy,ciaran",2022-11-14,08:30:00,10:00:00,True
