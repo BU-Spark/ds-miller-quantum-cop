@@ -6,7 +6,7 @@ Open a Pull Request to dev. Add your PM and TPM as reviewers.
 
 At the end of the semester during project wrap up open a final Pull Request to main from dev branch.
 
-DataSet Exaplanations
+#DataSet Exaplanations
 
 fio_fieldcontact files are for descriptions of officers for that particular year
 fio_fieldnames are for descriptions of the suspect that the FIO filed on for that particular year
@@ -19,7 +19,7 @@ Overtime_result csv's are all the instances of double dipping found between FIO 
 
 
 
-Data Script Explanations
+#Data Script Explanations
 
 fio_cleaning.py contains the cleaned and merged datasets for fio_fieldcontact and fio_fieldname tables. These also have time conversions
 to fit Overtime data and MassDOT/ACLU time configurations
