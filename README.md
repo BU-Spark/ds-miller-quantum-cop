@@ -1,6 +1,6 @@
-# TEMPLATE-base-repo
+# DataSet Exaplanations 
 
-Create a new branch from dev, add changes on the new branch you just created.
+fio_fieldcontact files are for descriptions of officers for that particular year fio_fieldnames are for descriptions of the suspect that the FIO filed on for that particular year
 
-Open a Pull Request to dev. Add your PM and TPM as reviewers. 
+All Overtime_merged_cleaned csv's are from another branch that were needed to do cross examinations with cleaned_fio_data
 
